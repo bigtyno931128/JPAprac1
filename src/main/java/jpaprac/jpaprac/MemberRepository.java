@@ -1,5 +1,6 @@
 package jpaprac.jpaprac;
 
+import jpaprac.jpaprac.domain.Member;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;
